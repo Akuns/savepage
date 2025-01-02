@@ -36,7 +36,7 @@ SavePage is a powerful web content archiving tool that helps you preserve web pa
 
 ## 📚 Documentation
 
-For detailed documentation and usage examples, visit our [official documentation](http://savepage.online/docs).
+For detailed documentation and usage examples, visit our [official documentation](http://savepage.online/#about).
 
 ## 🌐 Live Demo
 
@@ -44,7 +44,7 @@ Try SavePage now at [http://savepage.online](http://savepage.online)
 
 ## 💻 Developer API
 
-Integrate SavePage into your applications with our developer API. Get your API key at [http://savepage.online/api](http://savepage.online/api)
+Integrate SavePage into your applications with our developer API. Get your API key at [http://savepage.online](http://savepage.online)
 
 ## 📈 Usage Statistics
 
@@ -56,8 +56,7 @@ Integrate SavePage into your applications with our developer API. Get your API k
 ## 🤝 Support
 
 For support queries, feature requests, or bug reports:
-- Visit our [Help Center](http://savepage.online/help)
-- Email us at support@savepage.online
+- Visit our [Help Center](http://savepage.online/#faq)
 - Open an issue on GitHub
 
 ## 📄 License
